@@ -30,8 +30,9 @@ let raghvendra = {
             hybrid: ["Ionic Framework"]
         },
         devOps: ["AWS", "DigitalOcean"],
-        databases: ["MongoDB", "MySql", "PostgreSQL", "Redis", "ElasticSearch"],
-        misc: ["Firebase", "Socket.IO", "Amplify"]
+        databases: ["MySql", "MongoDB", "PostgreSQL", "Redis", "ElasticSearch", "InfluxDB"],
+        queue: ["Redis", "Kafka"],
+        misc: ["Firebase", "Socket.IO", "Amplify", "Pubnub"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "IoT, Cloud",
