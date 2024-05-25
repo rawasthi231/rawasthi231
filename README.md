@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-Raghvendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/raghavendra-awasthi-038758aa)](www.linkedin.com/in/raghavendra-awasthi-038758aa/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Raghvendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/raghvendra-awasthi-038758aa)](www.linkedin.com/in/raghavendra-awasthi-038758aa/)
 ![GitHub followers](https://img.shields.io/github/followers/rawasthi231?label=Follow&style=social)
 
 
@@ -12,12 +12,12 @@
 ```javascript
 let raghvendra = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "PHP", "Python"],
+    code: ["Javascript", "TypeScript", "PHP", "Python", "Arduino"],
     askMeAbout: ["Web dev", "Tech", "App dev", "Music", "Auto Mobile"],
     technologies: {
         frontEnd: {
-            js: ["React", "Ionic"],
-            ts: ["React", "Ionic"],
+            js: ["ReactJS", "Ionic", "NextJS"],
+            ts: ["React", "Ionic", "NextJS"],
             css: ["css", "scss", "Bootstrap"]
         },
         backEnd: {
@@ -27,14 +27,14 @@ let raghvendra = {
             python: ["Flask", "Django"],
         },
         mobileApp: {
-            hybrid: ["Ionic Framework"]
+            hybrid: ["Ionic Framework", "React Native"]
         },
-        devOps: ["AWS", "DigitalOcean"],
+        devOps: ["AWS", "DigitalOcean", "Github", "Gitlab"],
         databases: ["MySql", "MongoDB", "PostgreSQL", "Redis", "ElasticSearch", "InfluxDB"],
         queue: ["Redis", "Kafka"],
         misc: ["Firebase", "Socket.IO", "Amplify", "Pubnub"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Server side applications"],
     currentFocus: "IoT, Cloud",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
