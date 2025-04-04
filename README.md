@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Raghvendra Awasthi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Assistant Technical Lead at <a href="https://biz4group.com">Biz4Group LLC
+<p><em>Sr. Full Stack Developer at <a href="https://biz4group.com">Auriga IT
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -24,15 +24,15 @@ let raghvendra = {
             js: ["Node", "Express"],
             ts: ["Node", "Express"],
             php: ["Core", "Laravel"],
-            python: ["Flask", "Django"],
+            python: ["Flask", "Django", "FastAPI"],
         },
         mobileApp: {
             hybrid: ["Ionic Framework", "React Native"]
         },
-        devOps: ["AWS", "DigitalOcean", "Github", "Gitlab"],
+        devOps: ["AWS", "DigitalOcean", "Github", "Gitlab", "GCP"],
         databases: ["MySql", "MongoDB", "PostgreSQL", "Redis", "ElasticSearch", "InfluxDB"],
-        queue: ["Redis", "Kafka"],
-        misc: ["Firebase", "Socket.IO", "Amplify", "Pubnub"]
+        queue: ["Kafka", "RabbitMQ"],
+        misc: ["Firebase", "Socket.IO", "Pubnub", "TypeORM", "Sequelize"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Server side applications"],
     currentFocus: "IoT, Cloud",
