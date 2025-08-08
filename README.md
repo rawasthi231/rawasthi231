@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Raghvendra Awasthi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Sr. Full Stack Developer at <a href="https://aurigait.com">Auriga IT
+<p><em>SDE-III
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,33 +11,33 @@
 
 ```javascript
 let raghvendra = {
-    pronouns: "He" | "Him",
+    pronouns: ["He","Him"],
     code: ["Javascript", "TypeScript", "PHP", "Python", "Arduino"],
-    askMeAbout: ["Web dev", "Tech", "App dev", "Music", "Auto Mobile"],
+    askMeAbout: ["Web Dev", "Mobile App Dev", "Cloud", "IoT", "AI", "MCP", "System Design"],
     technologies: {
         frontEnd: {
             js: ["ReactJS", "Ionic", "NextJS"],
-            ts: ["React", "Ionic", "NextJS"],
-            css: ["css", "scss", "Bootstrap"]
+            css: ["css", "scss", "Bootstrap", "Tailwind css"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            ts: ["Node", "Express"],
-            php: ["Core", "Laravel"],
+            nodejs: ["ExpressJS", "NestJS"],
+            php: ["Laravel"],
             python: ["Flask", "Django", "FastAPI"],
         },
         mobileApp: {
             hybrid: ["Ionic Framework", "React Native"]
         },
-        devOps: ["AWS", "DigitalOcean", "Github", "Gitlab", "GCP"],
+        devOps: ["AWS", "DigitalOcean", "Github", "Gitlab", "BitBucket", "GCP"],
         databases: ["MySql", "MongoDB", "PostgreSQL", "Redis", "ElasticSearch", "InfluxDB"],
         queue: ["Kafka", "RabbitMQ"],
-        misc: ["Firebase", "Socket.IO", "Pubnub", "TypeORM", "Sequelize"]
+        misc: ["Firebase", "Socket.IO", "Pubnub", "TypeORM", "Sequelize", "Prisma"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Server side applications"],
-    currentFocus: "IoT, Cloud",
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Server side applications", "Micro Services", "Micro Frontends"],
+    currentFocus: ["IoT", "Cloud", "AI"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Don't want to connect much with different people.</b> Little introvert you can say <b>But, I'll be happy if you talk to me about music!</b> 😊</em>
+<em><b>Still a bit introverted, but more open to connecting — especially for knowledge sharing and great conversations.
+And yes, music is always a good icebreaker!</b>b> 😊🎧
+</em>
